@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navneet Pal</h1>
 <h3 align="center">A passionate mobile developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://developer.android.com/static/develop/ui/compose/images/landing-preview-animation.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/3164336/screenshots/10777934/media/a43ba34be991695b2ac0e4475d913d17.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navneetpal01&label=Profile%20views&color=0e75b6&style=flat" alt="navneetpal01" /> </p>
 
