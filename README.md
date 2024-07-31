@@ -1,22 +1,22 @@
+<br>
+<h2 align="center">Introduction</h2>
 
+<p align="center">Hi there! I'm Navneet, a student at Wendy High School with an interest in software engineering.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navneetpal01&label=Profile%20views&color=0e75b6&style=flat" alt="navneetpal01" /> </p>
+<br>
+<h2 align="center">Frequently Used Technologies</h2>
 
-- 🌱 I’m currently learning **How to write quality code and save resources**
+<div align="center">
+  <img src="https://img.shields.io/badge/C++%20-%2314354C.svg?&style=for-the-badge&logo=C++&logoColor=white">   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">   <img src="https://img.shields.io/badge/Kotlin%20-%23323330.svg?&style=for-the-badge&logo=Kotlin&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/Python%20-%23E34F26.svg?&style=for-the-badge&logo=Python&logoColor=white">   <img src="https://img.shields.io/badge/SQL%20-%231572B6.svg?&style=for-the-badge&logo=SQL&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  
+</div>
 
-- 💬 Ask me about **Android , Jetpack Compose , Kotlin**
-
-- 📫 How to reach me **navneetpal553@gmail.com**
-
-- ⚡ Fun fact **I code so much, I practically speak fluent binary.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<br>
+<h2 align="center">Need to contact me? Reach out using the links below!</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
